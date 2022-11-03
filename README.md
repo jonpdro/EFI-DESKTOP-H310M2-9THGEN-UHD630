@@ -11,7 +11,7 @@
 
 ## Important Informations
 - OpenCore 0.8.5;
-- EThis EFI worked to install and ran on Monterey;
+- This EFI worked to install and ran on Monterey;
 - No Ventura has been updated without any issues or errors in the kexts, further investigation needed;
 - As I use two monitors, one HDMI and the other VGA, it appears to have some image problems at first, but correcting the Hz and image resolution, it stops. Research required;
 - Requires the mapping of the UBS;
